@@ -24,6 +24,9 @@ const (
 	Vsphere = "vsphere"
 	// GCE provider
 	GCE = "gce"
+
+	// SolidFire provider
+	SolidFire = "solidfire"
 )
 
 // CloudResourceInfo provides metadata information on a cloud resource.
